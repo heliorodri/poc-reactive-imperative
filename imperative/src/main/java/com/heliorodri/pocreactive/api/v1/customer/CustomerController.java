@@ -2,7 +2,6 @@ package com.heliorodri.pocreactive.api.v1.customer;
 
 import static org.springframework.http.HttpStatus.CREATED;
 
-import com.heliorodri.pocreactive.domain.customer.Customer;
 import com.heliorodri.pocreactive.domain.customer.CustomerService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
