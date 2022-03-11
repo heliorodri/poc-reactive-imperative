@@ -1,4 +1,4 @@
-package com.heliorodri.pocreactive.domain.customer;
+package com.heliorodri.imperative.domain.customer;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;

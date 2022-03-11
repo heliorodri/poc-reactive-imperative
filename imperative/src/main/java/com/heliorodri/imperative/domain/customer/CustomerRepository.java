@@ -1,4 +1,4 @@
-package com.heliorodri.pocreactive.domain.customer;
+package com.heliorodri.imperative.domain.customer;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
